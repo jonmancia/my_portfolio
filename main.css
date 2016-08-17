@@ -1,0 +1,31 @@
+html {
+	padding-top: -20px;
+	margin-top: inherit;
+}
+body {
+	margin: 0px;
+	padding: 0px;
+	margin-top: 0;
+}
+.parallax {
+	background-color: silver;
+	padding-top: -20;
+	margin: 0;
+	height: 300px;
+	width: 100%;
+}
+
+h1 {
+	margin: auto;
+	text-align: center;
+	width: auto;
+	height: auto;
+	margin-top: 0px;
+	padding: 0;
+	line-height: ;
+}
+
+.div h3 {
+	margin: auto;
+	margin-top: 0px;
+}
